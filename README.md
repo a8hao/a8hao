@@ -1,4 +1,17 @@
-## hellooo i'm ally!! 
-🍥 a university of waterloo engineering student<br/>
-⭐ involved as an executive in women in engineering society and uw/ux<br/>
-🌱 you would catch me always blending design and tech together to create impactful solutions!
+<h2> hey i'm ally!</h2>
+
+<h3> about me: </h3>
+<p>
+  <ul> 
+    <li>2A Management Engineering Student at Univeresity of Waterloo 🦆</li>
+    <li>Women in Engineering Society Exec ⭐</li>
+    <li>Catch me working in a cafe 🍵 or... baking for my friends 🍪</li>
+  </ul>
+</p>
+
+<h3>get in touch: </h3>
+<p>
+  <ul>
+    <li>Email: a8hao@uwaterloo.ca</li>
+  </ul>
+</p>
