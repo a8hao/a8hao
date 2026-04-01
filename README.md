@@ -4,7 +4,7 @@
 <p>
   <ul> 
     <li>2A Management Engineering Student at Univeresity of Waterloo 🦆</li>
-    <li>Women in Engineering Society Exec ⭐</li>
+    <li>Women in Engineering Society Vice President ⭐</li>
     <li>Catch me working in a cafe 🍵 or... baking for my friends 🍪</li>
   </ul>
 </p>
